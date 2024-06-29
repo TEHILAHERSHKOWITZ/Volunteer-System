@@ -1,0 +1,8 @@
+db.Status.insertOne(
+{
+typeOfStatus:[
+"waiting",
+"inTreatment",
+"Ended"
+]
+})

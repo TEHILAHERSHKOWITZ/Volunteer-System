@@ -1,0 +1,23 @@
+db.Place.insertMany([
+{
+placeCode:1,
+location:"Jerusalem"
+},
+{
+placeCode:2,
+location:"Road 6"
+},
+{
+placeCode:3,
+location:"Route 9"
+},
+{
+placeCode:4,
+location:"Tel Aviv Central Station"
+},
+{
+placeCode:5,
+location:"Airport parking lot"
+}
+])
+
